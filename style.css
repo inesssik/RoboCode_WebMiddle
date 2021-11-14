@@ -1,0 +1,29 @@
+body{
+    color: #ffff;
+    background: rgb(18,15,75);
+    background: linear-gradient(90deg, rgba(18,15,75,1) 0%, rgba(5,1,20,1) 100%, rgba(0,0,0,1) 100%);
+}
+.header{
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.3rem;
+}
+.gitImage{
+    height: 250px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h4{
+    text-align: center;
+}
+.list{
+    background-color: black;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
